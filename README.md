@@ -15,7 +15,6 @@ I'm **Preta Kumar Binda** — an undergraduate in *Mechatronics Engineering (RUE
 - Advanced SQL and data engineering techniques.
 - Machine learning end-to-end workflows (data preprocessing, modeling, deployment).
 - Power BI and SSRS for professional business reporting.
-- Improving mathematical foundations for ML.
 
 ## 💼 Open to
 - Remote internships in Machine Learning / Data Science / Data Analytics.
@@ -82,13 +81,6 @@ I'm **Preta Kumar Binda** — an undergraduate in *Mechatronics Engineering (RUE
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pretakumarbinda&theme=radical" alt="github-streak"/>
 </p>
-
----
-
-## 👀 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=pretakumarbinda&color=blue&style=flat-square)
-
----
 
 *Thanks for visiting my profile!*
 
