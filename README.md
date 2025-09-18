@@ -46,13 +46,17 @@ I'm **Preta Kumar Binda** — an undergraduate in *Mechatronics Engineering (RUE
 ### Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?stle=for-the-badge&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1F62A9?style=for-the-badge&logoColor=white)
+
 
 ---
 
 ## ⚙️ Selected Projects
-- **Movie Recommender Site** — built using Numpy, Pandas, Scikit-learn, and Matplotlib.
+- [**Car Price Prediction System**](https://github.com/pretakumarbinda/ML_projects/tree/main/Car_Prediction_system) — using Linear regression
+- [**House Price Pediction**](https://github.com/pretakumarbinda/ML_projects/tree/main/House_price_prediction_kaggle) - using Linear Regression
 - **Data Management System for a Hospital** — developed using SSIS & MS SQL for ETL and storage.
 - **Student Performance Report** — interactive dashboards built in Power BI for analysis and visualization.
 - **Power BI Sales Report & SSRS Dashboard** — dashboards created using AdventureWorks 2019 dataset.
