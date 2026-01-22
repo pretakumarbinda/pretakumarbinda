@@ -50,6 +50,7 @@ I'm **Preta Kumar Binda** — an undergraduate in *Mechatronics Engineering (RUE
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-1F62A9?style=for-the-badge&logoColor=white)
+![Matlab](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 
 ---
